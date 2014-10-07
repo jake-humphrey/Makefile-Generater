@@ -1,8 +1,11 @@
 Program:    	gen-make
 Created by: 	Jake Humphrey
-Created Date:	9/3/2014
+Created Date:	10/7/2014
 
-Run setup as root to add this program to the shells PATH
+BUILDING THE PROGRAM
+	This program was written in C++ and distributed to be built on a 
+	Linux system.  To build the program, type 'make'.  Then to 
+	install the program type 'make install'.
 
 Description: 	
 	This program generates a makefile for either C++ programs or
